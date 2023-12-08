@@ -1,3 +1,8 @@
+# Polymorphism in Object-Oriented Programming (OOP) refers to the ability of different classes to be treated as objects 
+# of a common superclass through a shared interface. 
+# This allows objects of different classes to be used interchangeably based on a common behavior or interface, 
+# even though each class might have its own specific implementation.
+
 class Vehicle:
     def print_details(self):
         return "Parent method from Vehicle class"
